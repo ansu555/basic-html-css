@@ -6,7 +6,8 @@ Welcome to the repository for my Creative Designed website! This project showcas
 (CSS heavy)**
 This website is designed to present basic concepts of HTML and CSS(responsiveness).for responsiveness I use Media queries
 
-##concepts--
+
+##Cconcepts
 
 1)Display property :
 2)Position property :
