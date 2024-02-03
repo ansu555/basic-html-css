@@ -8,10 +8,10 @@ This website is designed to present basic concepts of HTML and CSS(responsivenes
 
 ##concepts--
 
-1)Display property
-2)Position property
-3)Float property
-4)Media queries
+1)Display property :
+2)Position property :
+3)Float property:
+4)Media queries:
 
 
 ## Features
