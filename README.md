@@ -3,17 +3,8 @@
 Welcome to the repository for my Creative Designed website! This project showcases our skills in web design and development, aiming to create beautiful and modern websites for various purposes.
 
 ## Overview
-(CSS heavy)**
+
 This website is designed to present basic concepts of HTML and CSS(responsiveness).for responsiveness I use Media queries
-
-
-##Cconcepts
-
-1)Display property :
-2)Position property :
-3)Float property:
-4)Media queries:
-
 
 ## Features
 
